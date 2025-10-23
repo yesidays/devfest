@@ -22,6 +22,8 @@ dist/
 env/
 venv/
 ENV/
+myenv/
+myenv
 
 # ======================================
 # Environment / secrets
