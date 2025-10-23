@@ -1,0 +1,47 @@
+# ======================================
+# Python general
+# ======================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+build/
+dist/
+*.manifest
+*.spec
+
+# ======================================
+# Virtual environments
+# ======================================
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# ======================================
+# Environment / secrets
+# ======================================
+.env
+.env.*
+
+# ======================================
+# Project-specific folders
+# ======================================
+notebooks/.ipynb_checkpoints/
+__pycache__/
+
+# ======================================
+# Logs & caches
+# ======================================
+*.log
+*.tmp
+*.cache
+.cache/
+.ipynb_checkpoints/
+.DS_Store
+
