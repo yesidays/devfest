@@ -18,12 +18,11 @@ dist/
 # Virtual environments
 # ======================================
 .env/
+myvenv/
+myvenv
 .venv/
-env/
 venv/
-ENV/
-myenv/
-myenv
+
 
 # ======================================
 # Environment / secrets
